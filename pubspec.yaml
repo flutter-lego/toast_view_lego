@@ -1,7 +1,7 @@
 name: toast_view_lego
 description: "simple toast view lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/toast_view_lego
 
 version: 1.0.0+1
 
